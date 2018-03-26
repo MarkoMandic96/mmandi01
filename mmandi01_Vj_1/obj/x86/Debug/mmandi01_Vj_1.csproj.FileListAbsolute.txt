@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\vjezba_IV\mmandi01_Vj_1\mmandi01_Vj_1\bin\Debug\mmandi01_Vj_1.exe
+C:\Users\student\Desktop\vjezba_IV\mmandi01_Vj_1\mmandi01_Vj_1\bin\Debug\mmandi01_Vj_1.pdb
+C:\Users\student\Desktop\vjezba_IV\mmandi01_Vj_1\mmandi01_Vj_1\obj\x86\Debug\mmandi01_Vj_1.exe
+C:\Users\student\Desktop\vjezba_IV\mmandi01_Vj_1\mmandi01_Vj_1\obj\x86\Debug\mmandi01_Vj_1.pdb
